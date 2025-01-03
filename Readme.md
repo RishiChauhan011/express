@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+#New line
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
